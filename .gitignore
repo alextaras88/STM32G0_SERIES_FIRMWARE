@@ -1,0 +1,14 @@
+# Keil project Folders
+*DebugConfig/
+*Listings/
+*Objects/
+*DebugConfig/
+
+# Keil project Files
+*.scvd
+*.txt
+*.ini
+*.ioc
+*.1621_
+*.uvprojx
+*.uvoptx
