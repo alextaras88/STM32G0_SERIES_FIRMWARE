@@ -10,5 +10,5 @@
 *.ini
 *.ioc
 *.1621_
-*.uvprojx
+# *.uvprojx
 *.uvoptx
